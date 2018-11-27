@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/rookie-banes/rookie-banes.iml" filepath="$PROJECT_DIR$/rookie-banes/rookie-banes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rookie-common/rookie-common.iml" filepath="$PROJECT_DIR$/rookie-common/rookie-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rookie-dao/rookie-dao.iml" filepath="$PROJECT_DIR$/rookie-dao/rookie-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rookie-iservice/rookie-iservice.iml" filepath="$PROJECT_DIR$/rookie-iservice/rookie-iservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rookie-service/rookie-service.iml" filepath="$PROJECT_DIR$/rookie-service/rookie-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rookie-web/rookie-web.iml" filepath="$PROJECT_DIR$/rookie-web/rookie-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rookieparent.iml" filepath="$PROJECT_DIR$/rookieparent.iml" />
+    </modules>
+  </component>
+</project>

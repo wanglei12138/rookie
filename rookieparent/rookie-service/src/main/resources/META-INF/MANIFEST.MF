@@ -1,0 +1,38 @@
+Manifest-Version: 1.0
+Class-Path: jackson-module-parameter-names-2.9.7.jar thymeleaf-spring5
+ -3.0.11.RELEASE.jar netty-transport-native-epoll-4.1.29.Final-linux-x
+ 86_64.jar spring-boot-actuator-2.1.0.RELEASE.jar netty-handler-proxy-
+ 4.1.29.Final.jar netty-handler-4.1.29.Final.jar jackson-databind-2.9.
+ 7.jar spring-boot-starter-logging-2.1.0.RELEASE.jar json-simple-1.1.1
+ .jar jackson-datatype-jsr310-2.9.7.jar spring-boot-starter-2.1.0.RELE
+ ASE.jar nio-multipart-parser-1.1.0.jar netty-buffer-4.1.29.Final.jar 
+ jackson-annotations-2.9.0.jar spring-aop-5.1.2.RELEASE.jar jul-to-slf
+ 4j-1.7.25.jar jackson-core-2.9.7.jar jackson-datatype-jdk8-2.9.7.jar 
+ spring-boot-starter-json-2.1.0.RELEASE.jar thymeleaf-3.0.11.RELEASE.j
+ ar micrometer-core-1.1.0.jar spring-webflux-5.1.2.RELEASE.jar snakeya
+ ml-1.23.jar nio-stream-storage-1.1.3.jar jsr305-3.0.2.jar netty-codec
+ -socks-4.1.29.Final.jar thymeleaf-extras-java8time-3.0.1.RELEASE.jar 
+ spring-boot-actuator-autoconfigure-2.1.0.RELEASE.jar LatencyUtils-2.0
+ .3.jar reactor-core-3.2.2.RELEASE.jar spring-boot-admin-server-cloud-
+ 2.1.1.jar validation-api-2.0.1.Final.jar spring-boot-admin-starter-cl
+ ient-2.1.1.jar reactor-extra-3.2.0.RELEASE.jar netty-resolver-4.1.29.
+ Final.jar spring-core-5.1.2.RELEASE.jar logback-core-1.2.3.jar spring
+ -boot-starter-thymeleaf-2.1.0.RELEASE.jar spring-beans-5.1.2.RELEASE.
+ jar logback-classic-1.2.3.jar slf4j-api-1.7.25.jar hibernate-validato
+ r-6.0.13.Final.jar attoparser-2.0.5.RELEASE.jar jolokia-core-1.6.0.ja
+ r classmate-1.4.0.jar spring-boot-starter-actuator-2.1.0.RELEASE.jar 
+ spring-boot-starter-webflux-2.1.0.RELEASE.jar spring-boot-admin-start
+ er-server-2.1.1.jar spring-boot-admin-server-ui-2.1.1.jar reactor-net
+ ty-0.8.2.RELEASE.jar spring-boot-starter-reactor-netty-2.1.0.RELEASE.
+ jar netty-codec-http-4.1.29.Final.jar spring-web-5.1.2.RELEASE.jar Hd
+ rHistogram-2.1.9.jar netty-codec-http2-4.1.29.Final.jar spring-boot-a
+ utoconfigure-2.1.0.RELEASE.jar spring-expression-5.1.2.RELEASE.jar ne
+ tty-transport-native-unix-common-4.1.29.Final.jar spring-context-5.1.
+ 2.RELEASE.jar log4j-api-2.11.1.jar spring-jcl-5.1.2.RELEASE.jar javax
+ .annotation-api-1.3.2.jar netty-codec-4.1.29.Final.jar jboss-logging-
+ 3.3.2.Final.jar unbescape-1.1.6.RELEASE.jar spring-boot-admin-client-
+ 2.1.1.jar spring-boot-2.1.0.RELEASE.jar netty-transport-4.1.29.Final.
+ jar log4j-to-slf4j-2.11.1.jar netty-common-4.1.29.Final.jar reactive-
+ streams-1.0.2.jar spring-boot-admin-server-2.1.1.jar
+Main-Class: com.wanglei.rookieiservice.RookieIserviceApplication
+
