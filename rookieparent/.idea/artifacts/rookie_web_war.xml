@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="rookie-web:war">
-    <output-path>$PROJECT_DIR$/rookie-web/target</output-path>
-    <root id="archive" name="rookie-web-0.0.1-SNAPSHOT.war">
-      <element id="artifact" artifact-name="rookie-web:war exploded" />
-    </root>
-  </artifact>
-</component>
